@@ -1,0 +1,3 @@
+[submodule "quarkus-usersystem"]
+	path = quarkus-usersystem
+	url = https://github.com/abc10324/quarkus-usersystem
